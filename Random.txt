@@ -1,0 +1,75 @@
+<!-- github -->
+<!-- Java -->
+<!-- MERN -->
+<!-- python -->
+<img src="../img.icons8.com/color/96/000000/python--v1.png" />
+<!-- javascript -->
+<img src="../img.icons8.com/color/96/000000/javascript--v1.png" />
+<!-- HTML -->
+<img src="../img.icons8.com/color/96/000000/html-5--v1.png" />
+<!-- CSS -->
+<img src="../img.icons8.com/color/96/000000/css3.png" />
+<!-- React -->
+<img src="../img.icons8.com/color/96/000000/react-native.png" />
+<!-- sass -->
+<img src="../img.icons8.com/color/96/000000/sass.png" />
+<!-- git -->
+<img src="../img.icons8.com/color/96/000000/git.png" />
+<!-- bash -->
+<img src="../img.icons8.com/color/96/000000/console.png" />
+<!-- bootstrap -->
+<img src="../img.icons8.com/color/96/000000/bootstrap.png" />
+
+<img src="../img.icons8.com/color/96/000000/heroku.png" />
+<!-- AWS -->
+<img src="../img.icons8.com/color/96/000000/amazon-web-services.png" />
+<!-- API -->
+<img src="../img.icons8.com/color/96/000000/api.png" />
+<!-- mySQL -->
+<img src="../img.icons8.com/color/96/000000/mysql-logo.png" />
+<!-- Django -->
+<img src="../img.icons8.com/color/96/000000/django.png" />
+</div>
+
+
+
+CSS
+
+.skills {
+  background-color: #01012b;
+}
+
+.skills .progress {
+  height: 60px;
+  display: block;
+  background: none;
+  border-radius: 0;
+}
+
+.skills .progress .skill {
+  padding: 0;
+  margin: 0 0 6px 0;
+  text-transform: uppercase;
+  display: block;
+  font-weight: 600;
+  font-family: 'Lato', sans-serif;
+  color: white;
+}
+
+.skills .progress .skill .val {
+  float: right;
+  font-style: normal;
+}
+
+.skills .progress-bar-wrap {
+  background: #005678;
+  height: 10px;
+}
+
+.skills .progress-bar {
+  width: 1px;
+  height: 10px;
+  -webkit-transition: .9s;
+  transition: .9s;
+  background-color: #ff2a6d;
+}
